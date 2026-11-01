@@ -6,8 +6,9 @@ For Wreckfest 1 on Steam with normal Workshop mods. An unofficial fan tool, not 
 
 <img width="750" height="570" alt="wreckfest server browser 1" src="https://github.com/user-attachments/assets/e7c5c81e-bfd2-426f-893a-7ce3bb1c3109" />
 
-<img width="750" height="740" alt="image-1793547372449" src="https://github.com/user-attachments/assets/e3611a4c-d67b-46d2-ad0e-5edfe16ce634" />
+<img width="750" height="590" alt="image-1793547372449" src="https://github.com/user-attachments/assets/bf7a5454-517a-4f4d-a5b9-7f5d58798361" />
 
+<img width="750" height="746" alt="image-1793547372449 2" src="https://github.com/user-attachments/assets/e09a4394-f7fc-45a0-a7c9-b7206c27ec42" />
 
 ## Why this exists
 
