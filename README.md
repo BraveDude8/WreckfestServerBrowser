@@ -88,7 +88,6 @@ WfEnhancedServerBrowserCli.exe admin <your mod ids>
 - It can only identify mods you have installed, unless the server or a known list names them.
 - A different version of a mod gives a different signature. Steam only downloads the newest version, so you can't join a server on an older one until it updates.
 - You still press join in the game. Wreckfest has no way to join a dedicated server from outside the game.
-- If more than one set of your mods matches, any of them passes the join check, but the tool can't tell which one the server really runs.
 - Mods made only of skins or textures don't change the signature, so they are never needed to pass the check.
 
 The full manual is `README.txt` in the download.
