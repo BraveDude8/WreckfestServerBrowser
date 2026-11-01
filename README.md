@@ -4,7 +4,8 @@ Find out which mods a Wreckfest server needs, set them up in the right order, an
 
 For Wreckfest 1 on Steam with normal Workshop mods. An unofficial fan tool, not made or endorsed by the owners of Wreckfest.
 
-![The tool with a server picked and its five mods identified](screenshot.png)
+<img width="500" height="385" alt="wreckfest server browser 1" src="https://github.com/user-attachments/assets/e7c5c81e-bfd2-426f-893a-7ce3bb1c3109" />
+
 
 ## Why this exists
 
